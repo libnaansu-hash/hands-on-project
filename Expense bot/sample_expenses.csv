@@ -1,0 +1,7 @@
+employee_name,date,description,amount,category,receipt_attached
+John Smith,01-05-2025,Uber to client meeting,45.5,Travel,Yes
+John Smith,01-05-2025,Client lunch at Nobu,120,Meals,Yes
+Sarah Lee,01-07-2025,Taxi to airport,32,Travel,No
+Sarah Lee,01-09-2025,Conference registration,750,Travel,Yes
+Sarah Lee,01-09-2025,Conference registration,750,Travel,Yes
+Mike Chen,01-06-2025,,55,Meals,Yes
